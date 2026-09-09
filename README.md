@@ -14,7 +14,7 @@ This portfolio is based on the information supplied in Shrihari Chikhalkar's res
 
 ## Contact
 - Email: heysiri1982@gmail.com
-- LinkedIn: https://linkedin.com/in/shrihari-chikhalkar
+- LinkedIn: https://www.linkedin.com/in/shrihari-chikhalkar-a89025380
 - GitHub: https://github.com/ShrihariChikhalkar
 
 ## Education
